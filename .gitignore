@@ -9,3 +9,5 @@ __pycache__/
 *.exe
 *.xls
 *xlsx
+*.json
+*.pdf
